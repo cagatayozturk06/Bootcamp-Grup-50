@@ -105,6 +105,36 @@ Daily Scrum toplantılarının Whatsapp üzerinden yürütülmesine karar verilm
 
 </details>
 
+# **SPRINT 2**
+
+## Daily Scrum:
+Daily Scrum toplantılarının Whatsapp üzerinden devam edilmesine karar verilmiştir. Görüşmeler çoğunlukla grup araması yapılarak konuşulurak ve mesajlar üzerinden görsel öğeler paylaşılarak yapılmıştır.
+
+<details> <summary><h3>Daily Scrumlardan ekran görüntüleri</h3></summary>
+<img width="887" height="666" alt="ss1" src="https://github.com/user-attachments/assets/4da16271-85f7-4c57-8d5d-a8c07a56527e" />
+<img width="890" height="700" alt="image" src="https://github.com/user-attachments/assets/3235b586-0515-4904-b8af-1cc6824b754f" />
+<img width="521" height="452" alt="image" src="https://github.com/user-attachments/assets/93295e42-dd52-4946-9bff-4c77e2ff215b" />
+<img width="1251" height="685" alt="image" src="https://github.com/user-attachments/assets/2b802a54-cd05-46ae-941d-b33dc8310b7a" />
+<img width="1226" height="612" alt="image" src="https://github.com/user-attachments/assets/176581dd-b93b-4d16-9023-5a2975feb5d4" />
+<img width="1232" height="612" alt="image" src="https://github.com/user-attachments/assets/4b631995-8618-490a-b313-a94d50218f6a" />
+<img width="1830" height="847" alt="sss6" src="https://github.com/user-attachments/assets/2517041a-84d9-433d-a230-9c77f7ba4b19" />
+<img width="1383" height="822" alt="image" src="https://github.com/user-attachments/assets/fecda2db-b168-47ca-8156-6feb0551e06e" />
+<img width="786" height="822" alt="image" src="https://github.com/user-attachments/assets/54466f77-880c-445d-a8dd-1b21ba02843b" />
+<img width="783" height="842" alt="image" src="https://github.com/user-attachments/assets/44f8c48a-90a2-4ddf-88fd-9092db431282" />
+<img width="812" height="832" alt="image" src="https://github.com/user-attachments/assets/c6b01518-3326-41d7-bfb6-7e63671f746c" />
+<img width="821" height="823" alt="image" src="https://github.com/user-attachments/assets/2edb47f7-441a-4614-ab6d-d4c8fee65ca4" />
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
